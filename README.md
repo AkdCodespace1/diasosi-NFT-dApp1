@@ -10,7 +10,7 @@ This project is an NFT Minting dApp, that mints NFTs to the blockchain displays 
 
 LIVE ACCESS URL: 
 
-https://
+https://diasosi-nft-d-app1.vercel.app/
 
 
 PROJECT AUTHOR: 
@@ -33,7 +33,7 @@ When you load the dApp, it immediately prompts you to connect wallet
  Next is a choose file button that allows a person to select any image to be minted by promting a windows explorer window which allows you to navigate to the directory where the file to be minted is stored, then, there is also a name field where the selected image's name will be displayed
  Next there's a field where you enter the title of the NFT 
  After which you click on the "Mint Now" button which performs the minting function in the dApp
- Then "More NFTs" button is located under the minted nfts in the "Minted NFts" section which displays all the minted NFTs in a pre-formatted grid manner. (NB: The "More NFTs button won't show up untill the number of minted NFTs exceeds 4) then you can now click to display all other minted NFTs
+ Then "More NFTs" button is located under the minted nfts in the "Minted NFts" section which displays all the minted NFTs in a pre-formatted grid manner. (NB: The "More NFTs button won't show up untill the number of minted NFTs exceed 4) then you can now click to display all other minted NFTs
 
 
 
@@ -41,14 +41,14 @@ INTERACTING WITH THE dApp:
 
 The dApp can be accessed  by visiting the link below
 
-https://
+https://diasosi-nft-d-app1.vercel.app/
 
 Or by installing the following dependencies on your machine and hosting the dApp locally on your machine by following the steps described below. 
 
 
 Step 1. Clone the project by entering the following command on your terminal
 
-git clone https://github.com/AkdCodespace1/Diasosi-NFT-Minter
+git clone https://github.com/AkdCodespace1/diasosi-NFT-dApp1/
 
 Step 2. Install dependencies (follow the description below)
 
